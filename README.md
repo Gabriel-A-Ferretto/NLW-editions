@@ -1,9 +1,6 @@
 # NLW-editions
  
-
-<div float="rigth" >
-    <a href="https://nlw.rocketseat.com.br/convite/gabriel-23283">Inscreva-se</a>
-</div>
+ <a style="text-align:left" href="https://nlw.rocketseat.com.br/convite/gabriel-23283">Inscreva-se</a>
 
 
 <p float="left">
