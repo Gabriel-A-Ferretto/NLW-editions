@@ -1,13 +1,8 @@
 # NLW-editions
-<<<<<<< HEAD
-=======
  
-<img src="..../2023/images/nlw-setup-explorer-ticket-2023.jpg">
->>>>>>> fffb97fa71a57bcee450f3e04e7341af0568eac8
+ <a style="text-align:left" href="https://nlw.rocketseat.com.br/convite/gabriel-23283">Inscreva-se</a>
 
-<br>
-<img src="./2023/images/nlw-setup-explorer-ticket-2023.jpg">
-<hr>
-<div style="text-align:center">
-    <a href="https://nlw.rocketseat.com.br/convite/gabriel-23283">Inscreva-se</a>
-</div>
+
+<p float="left">
+  <img src="./2023/images/nlw-setup-explorer-ticket-2023.jpg" width="350" height="550">
+</p>
