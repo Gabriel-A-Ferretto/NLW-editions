@@ -43,6 +43,55 @@ button {
   line-height: 125%;
 }
 
+#form-habits {
+  display: flex;
+  
+  padding: 0 48px;
+}
+.habits {
+  margin-top: 56px;
+  display: flex;
+  flex-direction: column;
+
+  gap: 24px;
+}
+
+.habit {
+  width: 64px;
+  height: 64px;
+
+  font-size: 32px;
+
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.days {
+  display: flex;
+  gap: 48px;
+  margin-left: 32px;
+
+}
+
+.day {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.day div {
+  margin-bottom: 8px;
+
+  font-family: 'Roboto Mono';
+  font-size: 20px;
+  line-height: 125%;
+
+  color: #A1A1AA;
+
+  text-align: center;
+}
+
 input {
   appearance: none;
   -webkit-appearance: none;
@@ -55,7 +104,7 @@ input {
 
   background: #18181B;
 }
-
+/*Pseudo selector*/
 input:checked {
   background: #8B5CF6;
   border: 2px solid #A78BFA;
